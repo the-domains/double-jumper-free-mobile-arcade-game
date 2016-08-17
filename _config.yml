@@ -1,6 +1,13 @@
 name: Double Jumper - Free Mobile Arcade Game
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6391e619-b51f-4f13-b025-8dfa5d48d42b.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1bda764-038c-42ae-bb01-c17b9a5a546d.jpg
 layout_spectrum: 0.31353243440389633
 typography_spectrum: 0.8427589466659547
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#25064D'
@@ -12,3 +19,10 @@ color:
   lightness: 0.6437687053233495
   saturation: 0.41179346448387877
   rhythmicContrast: 0.2617395398043739
+title: ''
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
